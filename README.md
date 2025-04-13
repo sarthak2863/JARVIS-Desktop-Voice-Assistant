@@ -1,12 +1,9 @@
 # JARVIS-Desktop-Voice-Assistant
 Python-based voice-controlled assistant that allows users to perform tasks such as opening websites, playing music, checking the time, and launching applications through voice commands. It uses speech recognition and text-to-speech technologies to provide a hands-free experience for interacting with your desktop.
 
+Project Overview
 
-# JARVIS Voice Assistant - README
-
-## Project Overview
-
-**JARVIS** is a voice-controlled personal assistant program built using Python. It allows you to control various tasks like opening websites, playing music, checking the time, launching applications, and more, simply by speaking commands. The assistant uses speech recognition to understand the user's commands and responds with text-to-speech (TTS) technology.
+JARVIS is a voice-controlled personal assistant program built using Python. It allows you to control various tasks like opening websites, playing music, checking the time, launching applications, and more, simply by speaking commands. The assistant uses speech recognition to understand the user's commands and responds with text-to-speech (TTS) technology.
 
 This project is implemented using several popular Python libraries:
 - `speech_recognition` for speech-to-text conversion.
